@@ -1,0 +1,1 @@
+yes | yum install -y mongodb-org
